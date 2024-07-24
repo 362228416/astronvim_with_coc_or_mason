@@ -1,3 +1,5 @@
+if true then return {} end
+
 return {
   "chaozwn/im-select.nvim",
   lazy = false,
