@@ -1,3 +1,5 @@
+if true then return {} end
+
 local set_mappings = require("astrocore").set_mappings
 local file_exists = require("utils").file_exists
 

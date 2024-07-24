@@ -1,3 +1,5 @@
+if true then return {} end
+
 --TODO: https://github.com/golang/go/issues/60903
 
 ---@type LazySpec
